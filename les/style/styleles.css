@@ -1,0 +1,39 @@
+
+body{background-color:black;
+    color:white;
+}
+
+.jumbotron{
+	background-color:black;
+	text-align:center;
+}
+
+p:intro{text-align: center;
+	font-size: 10em;
+}
+
+
+h1,h3{
+	font-size:5em;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+.line:hover{
+	text-decoration:line-through;
+}
+ 
+
+p{color: purple;
+}
+.record{
+font-size: 1000%;
+text-align: center;
+ text-shadow: 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827;
+}
+.record2{
+	text-align:center;
+}
+
+.grow { transition: all .2s ease-in-out; }
+ .grow:hover { transform: scale(1.1); }
